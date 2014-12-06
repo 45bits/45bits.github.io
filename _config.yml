@@ -1,0 +1,11 @@
+url: http://45bits.com
+title: 45bits
+email: hi@45bits.com
+description: > # "Nothing to see here... yet."
+
+markdown: kramdown
+permalink: pretty
+
+social:
+  - title: twitter
+    url: https://twitter.com/45bits
